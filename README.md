@@ -19,35 +19,38 @@ You can add your own topics by sending me a PR. I promise that I will accept it 
 [![HitCount](http://hits.dwyl.com/chameleonTK/intro-to-data-intensive-systems.svg)](http://hits.dwyl.com/chameleonTK/intro-to-data-intensive-systems.svg)
 ![](https://img.shields.io/github/license/chameleonTK/intro-to-data-intensive-systems.svg)
 
-### Table of contents
+## Table of contents
 -----------------
-* [Hadoop](#hadoop)
+* [Hadoop and MapReduce](#hadoop)
 
 
-### Parallel processing
+## Parallel processing
 ----------------
-## Hadoop and MapReduce [Read](https://dl.acm.org/citation.cfm?id=1327492)
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent quis gravida quam. Curabitur euismod nunc vel ultricies pharetra. Aenean ut est justo. Donec nec enim in leo volutpat condimentum. Donec massa nisl, posuere non feugiat nec, sollicitudin nec nibh. Maecenas ante nulla, mattis in ullamcorper at, ultricies blandit est. Integer elementum imperdiet velit quis porta. Sed eu velit eleifend, egestas lorem in, facilisis quam. 
-
-## Spark [Read](https://dl.acm.org/citation.cfm?id=1863103.1863113) [Read #2](https://dl.acm.org/citation.cfm?id=2228301)
+### Hadoop and MapReduce 
+[Read](https://dl.acm.org/citation.cfm?id=1327492)
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent quis gravida quam. Curabitur euismod nunc vel ultricies pharetra. Aenean ut est justo. Donec nec enim in leo volutpat condimentum. Donec massa nisl, posuere non feugiat nec, sollicitudin nec nibh. Maecenas ante nulla, mattis in ullamcorper at, ultricies blandit est. Integer elementum imperdiet velit quis porta. Sed eu velit eleifend, egestas lorem in, facilisis quam. 
 
+### Spark 
+[Read](https://dl.acm.org/citation.cfm?id=1863103.1863113) 
+[Read #2](https://dl.acm.org/citation.cfm?id=2228301)
 
-### Storage and Databases
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent quis gravida quam. Curabitur euismod nunc vel ultricies pharetra. Aenean ut est justo. Donec nec enim in leo volutpat condimentum. Donec massa nisl, posuere non feugiat nec, sollicitudin nec nibh. Maecenas ante nulla, mattis in ullamcorper at, ultricies blandit est. Integer elementum imperdiet velit quis porta. Sed eu velit eleifend, egestas lorem in, facilisis quam. 
+
+
+## Storage and Databases
 ----------------
-### Graph and Stream Processing
+## Graph and Stream Processing
 ----------------
-### Resource management
+## Resource management
 ----------------
-### Scheduling algorithms
+## Scheduling algorithms
 ----------------
-### Cloud engineering
+## Cloud engineering
 ----------------
-### Edge / decentralised
+## Edge / decentralised
 ----------------
-### Machine learning and systems
+## Machine learning and systems
 ----------------
 
 
