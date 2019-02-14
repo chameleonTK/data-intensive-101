@@ -1,0 +1,113 @@
+## Hadoop and MapReduce 
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent quis gravida quam. Curabitur euismod nunc vel ultricies pharetra. Aenean ut est justo. Donec nec enim in leo volutpat condimentum. Donec massa nisl, posuere non feugiat nec, sollicitudin nec nibh. Maecenas ante nulla, mattis in ullamcorper at, ultricies blandit est. Integer elementum imperdiet velit quis porta. Sed eu velit eleifend, egestas lorem in, facilisis quam. 
+
+ > Jeffrey Dean and Sanjay Ghemawat. 2008. MapReduce: simplified data processing on large clusters. Commun. ACM 51, 1 (January 2008), 107-113. 
+
+## Spark
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent quis gravida quam. Curabitur euismod nunc vel ultricies pharetra. Aenean ut est justo. Donec nec enim in leo volutpat condimentum. Donec massa nisl, posuere non feugiat nec, sollicitudin nec nibh. Maecenas ante nulla, mattis in ullamcorper at, ultricies blandit est. Integer elementum imperdiet velit quis porta. Sed eu velit eleifend, egestas lorem in, facilisis quam. 
+
+> Matei Zaharia, Mosharaf Chowdhury, Tathagata Das, Ankur Dave, Justin Ma, Murphy McCauley, Michael J. Franklin, Scott Shenker, and Ion Stoica. 2012. Resilient distributed datasets: a fault-tolerant abstraction for in-memory cluster computing. In Proceedings of the 9th USENIX conference on Networked Systems Design and Implementation (NSDI’12). 
+
+> Matei Zaharia, Mosharaf Chowdhury, Michael J. Franklin, Scott Shenker, and Ion Stoica. 2010. Spark: cluster computing with working sets. In Proceedings of the 2nd USENIX conference on Hot topics in cloud computing (HotCloud’10).
+
+### Storage and Databases
+----------------
+
+## Google File System
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent quis gravida quam. Curabitur euismod nunc vel ultricies pharetra. Aenean ut est justo. Donec nec enim in leo volutpat condimentum. Donec massa nisl, posuere non feugiat nec, sollicitudin nec nibh. Maecenas ante nulla, mattis in ullamcorper at, ultricies blandit est. Integer elementum imperdiet velit quis porta. Sed eu velit eleifend, egestas lorem in, facilisis quam. 
+
+> Sanjay Ghemawat, Howard Gobioff, and Shun-Tak Leung. 2003. The Google file system. In Proceedings of the nineteenth ACM symposium on Operating systems principles (SOSP ’03). 
+
+## Dryad
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent quis gravida quam. Curabitur euismod nunc vel ultricies pharetra. Aenean ut est justo. Donec nec enim in leo volutpat condimentum. Donec massa nisl, posuere non feugiat nec, sollicitudin nec nibh. Maecenas ante nulla, mattis in ullamcorper at, ultricies blandit est. Integer elementum imperdiet velit quis porta. Sed eu velit eleifend, egestas lorem in, facilisis quam. 
+
+> Michael Isard, Mihai Budiu, Yuan Yu, Andrew Birrell, and Dennis Fetterly. 2007. Dryad: distributed data-parallel programs from sequential building blocks. In Proceedings of the 2nd ACM SIGOPS/EuroSys European Conference on Computer Systems 2007 (EuroSys ’07). 
+
+## Dynamo
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent quis gravida quam. Curabitur euismod nunc vel ultricies pharetra. Aenean ut est justo. Donec nec enim in leo volutpat condimentum. Donec massa nisl, posuere non feugiat nec, sollicitudin nec nibh. Maecenas ante nulla, mattis in ullamcorper at, ultricies blandit est. Integer elementum imperdiet velit quis porta. Sed eu velit eleifend, egestas lorem in, facilisis quam. 
+
+> Giuseppe DeCandia, Deniz Hastorun, Madan Jampani, Gunavardhan Kakulapati, Avinash Lakshman, Alex Pilchin, Swaminathan Sivasubramanian, Peter Vosshall, and Werner Vogels. 2007. Dynamo: amazon’s highly available key-value store. In Proceedings of twenty-first ACM SIGOPS symposium on Operating systems principles (SOSP ’07). 
+
+### Graph and Stream Processing
+----------------
+
+## Twitter Heron
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent quis gravida quam. Curabitur euismod nunc vel ultricies pharetra. Aenean ut est justo. Donec nec enim in leo volutpat condimentum. Donec massa nisl, posuere non feugiat nec, sollicitudin nec nibh. Maecenas ante nulla, mattis in ullamcorper at, ultricies blandit est. Integer elementum imperdiet velit quis porta. Sed eu velit eleifend, egestas lorem in, facilisis quam. 
+
+> Sanjeev Kulkarni, Nikunj Bhagat, Maosong Fu, Vikas Kedigehalli, Christopher Kellogg, Sailesh Mittal, Jignesh M. Patel, Karthik Ramasamy, and Siddarth Taneja. 2015. Twitter Heron: Stream Processing at Scale. In Proceedings of the 2015 ACM SIGMOD International Conference on Management of Data (SIGMOD ’15).
+
+## Pregel
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent quis gravida quam. Curabitur euismod nunc vel ultricies pharetra. Aenean ut est justo. Donec nec enim in leo volutpat condimentum. Donec massa nisl, posuere non feugiat nec, sollicitudin nec nibh. Maecenas ante nulla, mattis in ullamcorper at, ultricies blandit est. Integer elementum imperdiet velit quis porta. Sed eu velit eleifend, egestas lorem in, facilisis quam. 
+
+> Grzegorz Malewicz, Matthew H. Austern, Aart J.C Bik, James C. Dehnert, Ilan Horn, Naty Leiser, and Grzegorz Czajkowski. Pregel: a system for large-scale graph processing. In Proceedings of the 2010 ACM SIGMOD International Conference on Management of data (SIGMOD ’10). ACM, New York, NY, USA, 135-146.
+
+## GraphX
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent quis gravida quam. Curabitur euismod nunc vel ultricies pharetra. Aenean ut est justo. Donec nec enim in leo volutpat condimentum. Donec massa nisl, posuere non feugiat nec, sollicitudin nec nibh. Maecenas ante nulla, mattis in ullamcorper at, ultricies blandit est. Integer elementum imperdiet velit quis porta. Sed eu velit eleifend, egestas lorem in, facilisis quam. 
+
+> Joseph E. Gonzalez, Reynold S. Xin, Ankur Dave, Daniel Crankshaw, Michael J. Franklin, and Ion Stoica. 2014. GraphX: graph processing in a distributed dataflow framework. In Proceedings of the 11th USENIX conference on Operating Systems Design and Implementation (OSDI’14). USENIX Association, Berkeley, CA, USA, 599-613.
+
+    Mosharaf Chowdhury and Ion Stoica. 2012. Coflow: a networking abstraction for cluster applications. In Proceedings of the 11th ACM Workshop on Hot Topics in Networks (HotNets-XI). 
+
+Week 7: resource management
+
+    9) Benjamin Hindman, Andy Konwinski, Matei Zaharia, Ali Ghodsi, Anthony D. Joseph, Randy Katz, Scott Shenker, and Ion Stoica. 2011. Mesos: a platform for fine-grained resource sharing in the data center. In Proceedings of the 8th USENIX conference on Networked systems design and implementation (NSDI’11).
+
+    10) Andrey Goder, Alexey Spiridonov, and Yin Wang. 2015. Bistro: scheduling data-parallel jobs against live production systems. In Proceedings of the 2015 USENIX Conference on Usenix Annual Technical Conference (USENIX ATC ’15). 
+
+Optional paper(s)
+
+    Brendan Burns, Brian Grant, David Oppenheimer, Eric Brewer, and John Wilkes. 2016. Borg, Omega, and Kubernetes. Queue 14, 1, pages 10 (January 2016), 24 pages.
+
+    Malte Schwarzkopf, Andy Konwinski, Michael Abd-El-Malek, and John Wilkes. 2013. Omega: flexible, scalable schedulers for large compute clustersIn Proceedings of the 8th ACM European Conference on Computer Systems (EuroSys ’13).
+
+    Konstantinos Karanasos, Sriram Rao, Carlo Curino, Chris Douglas, Kishore Chaliparambil, Giovanni Matteo Fumarola, Solom Heddaya, Raghu Ramakrishnan, and Sarvesh Sakalanaga. 2015. Mercury: hybrid centralised and distributed scheduling in large shared clusters. In Proceedings of the 2015 USENIX Conference on Usenix Annual Technical Conference (USENIX ATC ’15). 
+
+Week 8: scheduling algorithms
+
+    11) Chien-Chun Hung, Leana Golubchik, and Minlan Yu. 2015. Scheduling jobs across geo-distributed datacenters. In Proceedings of the Sixth ACM Symposium on Cloud Computing (SoCC ’15). ACM, New York, NY, USA, 111-124. DOI: https://doi.org/10.1145/2806777.2806780
+
+    12) Ionel Gog, Malte Schwarzkopf, Adam Gleave, Robert N. M. Watson, and Steven Hand. 2016. Firmament: fast, centralized cluster scheduling at scale. In Proceedings of the 12th USENIX conference on Operating Systems Design and Implementation (OSDI’16). USENIX Association, Berkeley, CA, USA, 99-115.
+
+    13) Philipp Leitner and Jürgen Cito. 2016. Patterns in the Chaos—A Study of Performance Variation and Predictability in Public IaaS Clouds. ACM Trans. Internet Technol. 16, 3, Article 15 (April 2016), 23 pages. 
+
+Optional paper(s)
+
+    Timothy Zhu, Michael A. Kozuch, and Mor Harchol-Balter. 2017. WorkloadCompactor: reducing datacenter cost while providing tail latency SLO guarantees. In Proceedings of the 2017 Symposium on Cloud Computing (SoCC ’17). ACM, New York, NY, USA, 598-610. 
+
+Week 9: cloud engineering
+
+    14) Supreeth Shastri and David Irwin. 2017. HotSpot: automated server hopping in cloud spot markets. In Proceedings of the 2017 Symposium on Cloud Computing (SoCC ’17). ACM, New York, NY, USA, 493-505.
+
+    15) Andrew Chung, Jun Woo Park, and Gregory R. Ganger. 2018. Stratus: cost-aware container scheduling in the public cloud. In Proceedings of the ACM Symposium on Cloud Computing (SoCC ’18). ACM, New York, NY, USA, 121-134. 
+
+Optional papers
+
+    William Voorsluys and Rajkumar Buyya. 2012. Reliable Provisioning of Spot Instances for Compute-intensive Applications. In Proceedings of the 2012 IEEE 26th International Conference on Advanced Information Networking and Applications (AINA ’12). IEEE Computer Society, Washington, DC, USA, 542-549.
+
+    Mathew Ryden, Kwangsung Oh, Abhishek Chandra, and Jon Weissman. 2014. Nebula: Distributed Edge Cloud for Data Intensive Computing. In Proceedings of the 2014 IEEE International Conference on Cloud Engineering (IC2E ’14). IEEE Computer Society, Washington, DC, USA, 57-66. 
+
+Week 10: edge / decentralised
+
+    16) Enrique Saurez, Kirak Hong, Dave Lillethun, Umakishore Ramachandran, and Beate Ottenwälder. 2016. Incremental deployment and migration of geo-distributed situation awareness applications in the fog. In Proceedings of the 10th ACM International Conference on Distributed and Event-based Systems (DEBS ’16). ACM, New York, NY, USA, 258-269.
+
+    17) Ion Stoica, Robert Morris, David Karger, M. Frans Kaashoek, and Hari Balakrishnan. 2001. Chord: A scalable peer-to-peer lookup service for internet applications. In Proceedings of the 2001 conference on Applications, technologies, architectures, and protocols for computer communications (SIGCOMM ’01).
+
+    18) Omid Alipourfard, Hongqiang Harry Liu, Jianshu Chen, Shivaram Venkataraman, Minlan Yu, and Ming Zhang. 2017. CherryPick: Adaptively Unearthing the Best Cloud Configurations for Big Data Analytics. In Proceedings of the 14th USENIX Conference on Networked Systems Design and Implementation (NSDI’17). USENIX Association, Berkeley, CA, USA, 469-482. 
+
+Optional papers
+
+    Kirak Hong, David Lillethun, Umakishore Ramachandran, Beate Ottenwälder, and Boris Koldehofe. 2013. Mobile fog: a programming model for large-scale applications on the internet of things. In Proceedings of the second ACM SIGCOMM workshop on Mobile cloud computing (MCC ’13). ACM, New York, NY, USA, 15-20. DOI: 
+
+Week 11: machine learning and systems
+
+    19) Neeraja J. Yadwadkar, Bharath Hariharan, Joseph E. Gonzalez, Burton Smith, and Randy H. Katz. 2017. Selecting the best VM across multiple public clouds: a data-driven performance modeling approach. In Proceedings of the 2017 Symposium on Cloud Computing (SoCC ’17). ACM, New York, NY, USA, 452-465.
+
+    20) Hongzi Mao, Malte Schwarzkopf, Shaileshh Bojja Venkatakrishnan, Zili Meng, and Mohammad Alizadeh. Learning Scheduling Algorithms for Data Processing Clusters. In ML for Systems Conference, 2018. 
