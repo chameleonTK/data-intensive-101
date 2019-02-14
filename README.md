@@ -20,12 +20,12 @@ You can add your own topics by sending me a PR. I promise that I will accept it 
 ![](https://img.shields.io/github/license/chameleonTK/intro-to-data-intensive-systems.svg)
 
 ## Table of contents
------------------
-* [Hadoop and MapReduce](#hadoop)
+* [Hadoop and MapReduce](#hadoop-and-mapreduce)
+* [Spark](#spark)
+
 
 
 ## Parallel processing
-----------------
 ### Hadoop and MapReduce 
 [Read](https://dl.acm.org/citation.cfm?id=1327492)
 
@@ -39,19 +39,12 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent quis gravida q
 
 
 ## Storage and Databases
-----------------
 ## Graph and Stream Processing
-----------------
 ## Resource management
-----------------
 ## Scheduling algorithms
-----------------
 ## Cloud engineering
-----------------
 ## Edge / decentralised
-----------------
 ## Machine learning and systems
-----------------
 
 
 
