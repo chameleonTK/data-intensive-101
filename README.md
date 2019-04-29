@@ -19,23 +19,61 @@ You can add your own topics by sending me a PR. I promise that I will accept it 
 [![HitCount](http://hits.dwyl.com/chameleonTK/intro-to-data-intensive-systems.svg)](http://hits.dwyl.com/chameleonTK/intro-to-data-intensive-systems.svg)
 ![](https://img.shields.io/github/license/chameleonTK/intro-to-data-intensive-systems.svg)
 
+
 ## Table of contents
+* [Distributed systems](#distributed-systems)
 * [Hadoop and MapReduce](#hadoop-and-mapreduce)
 * [Spark](#spark)
 
+## Distributed systems
+As Tanenbaum,2006 defined it as "a collection of independent computers that appears to the user as a single coherent system." Or in a simple word, it is a group of computers working together to deal with a single task. To make it works, there are several design issues to concern.
+* Heterogeneity; make it works with different kind of machines
+* Openness; how the system can be extended or new services can be added 
+    *  uniform communication mechanisms
+    *  published interfaces 
+* Security
+    *  the number of ways that a system may be attacked is significantly increased 
+* Scalability
+    * Hiding latency; move data closer to the processing node or avoid blocking requests
+    * Distribution
+    * Replication
+* Failure handling; detect and deal with failure
+    * It usually is only partial failure
+    * Detecting failures; checksum
+    * Masking failures; to hidden or fix 
+    * Tolerating failures; not to fail other services
+    * Recovery
+    * Redundancy
+* Transparency; appear to the user as a single system
+    * mapping abstract to physical resources
+    * Access, Location, Migration, Replication, Concurrency, Failure, and Scaling
+* Quality of service;
+    * acceptable response time and throughput 
+
+### Software Layers
+|        Applications        	|
+|:--------------------------:	|
+|         Middleware         	|
+| Platform (OS and Hardware) 	|
 
 
-## Parallel processing
+
+### Distributed systems architecture
+1. Centralised: 2-tier / N-tier
+2. Decentralised
+3. Cluster and Cloud computing
+    * physically close, highly connected, homogeneous, one admin domain
+4. Grid computing 
+    * heterogeneous, multiple domains 
+
+
 ### Hadoop and MapReduce 
 [Read](https://dl.acm.org/citation.cfm?id=1327492)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent quis gravida quam. Curabitur euismod nunc vel ultricies pharetra. Aenean ut est justo. Donec nec enim in leo volutpat condimentum. Donec massa nisl, posuere non feugiat nec, sollicitudin nec nibh. Maecenas ante nulla, mattis in ullamcorper at, ultricies blandit est. Integer elementum imperdiet velit quis porta. Sed eu velit eleifend, egestas lorem in, facilisis quam. 
 
 ### Spark 
 [Read](https://dl.acm.org/citation.cfm?id=1863103.1863113) 
 [Read #2](https://dl.acm.org/citation.cfm?id=2228301)
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent quis gravida quam. Curabitur euismod nunc vel ultricies pharetra. Aenean ut est justo. Donec nec enim in leo volutpat condimentum. Donec massa nisl, posuere non feugiat nec, sollicitudin nec nibh. Maecenas ante nulla, mattis in ullamcorper at, ultricies blandit est. Integer elementum imperdiet velit quis porta. Sed eu velit eleifend, egestas lorem in, facilisis quam. 
 
 
 ## Storage and Databases
